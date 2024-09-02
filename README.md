@@ -1,3 +1,5 @@
+
+<img align="center" width="100%" src="https://github.com/RehmanAli10/RehmanAli10/blob/main/banner.png" alt="banner"/>
 <h1 align="center">Hi 👋, I'm Rehman Ali</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
