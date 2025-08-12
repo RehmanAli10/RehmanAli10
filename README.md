@@ -47,8 +47,8 @@
 <div style="background: linear-gradient(to right, #0f172a, #1e293b); padding: 20px; border-radius: 15px; margin: 20px 0;">
   <h2>🌟 About Me</h2>
   
-  - 🔭 Currently crafting **Next.js Dashboard**
-  - 🌱 Mastering **Next.js Advanced Features**
+  - 🔭 Currently crafting **Exventuro**
+  - 🌱 Mastering *Javascript**
   - 💬 Ask me about **React Hooks, State Management, or UI Optimization**
   - 📄 Explore my journey: [Resume](https://tinyurl.com/5zv4ae4f)
   - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
@@ -84,11 +84,6 @@
 <!-- Trophy Section -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rehmanali10&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
-</div>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RehmanAli10/RehmanAli10/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
 <!-- Footer Quote -->
