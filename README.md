@@ -6,7 +6,7 @@
 <!-- Dynamic Header with Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rehman+Ali;Full-Stack+Developer;React+%7C+Next.js+%7C+React+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rehman+Ali;Full-Stack+Developer;React+%7C+Next.js+%7C+React+Native" alt="Typing SVG" />
   </a>
 </h1>
 
