@@ -51,7 +51,6 @@
   - 🌱 Mastering *Javascript**
   - 💬 Ask me about **React Hooks, State Management, or UI Optimization**
   - 📄 Explore my journey: [Resume](https://tinyurl.com/5zv4ae4f)
-  - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 </div>
 
 <!-- Tech Stack Section with Animated Icons -->
