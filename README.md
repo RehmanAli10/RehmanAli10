@@ -47,7 +47,7 @@
 <div style="background: linear-gradient(to right, #0f172a, #1e293b); padding: 20px; border-radius: 15px; margin: 20px 0;">
   <h2>🌟 About Me</h2>
   
-  - 🔭 Currently crafting **Exventuro**
+  - 🔭 Currently crafting **Voice Ai Agent**
   - 🌱 Mastering *Javascript**
   - 💬 Ask me about **React Hooks, State Management, or UI Optimization**
   - 📄 Explore my journey: [Resume](https://tinyurl.com/5zv4ae4f)
