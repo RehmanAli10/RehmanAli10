@@ -1,91 +1,109 @@
 <!-- Animated Banner with Glow Effect -->
 <div align="center">
-  <img src="https://github.com/RehmanAli10/RehmanAli10/blob/main/banner.png" alt="banner" style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 255, 200, 0.3); max-width: 100%;"/>
+  <img src="https://raw.githubusercontent.com/RehmanAli10/RehmanAli10/main/banner.png" alt="banner" width="100%" style="border-radius: 20px;"/>
 </div>
+
+<br/>
 
 <!-- Dynamic Header with Typing Animation -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rehman+Ali;Full-Stack+Developer;React+%7C+Next.js+%7C+React+Native" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rehman+Ali;Full-Stack+Developer;React+%7C+Next.js+%7C+React+Native" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Intro Cards -->
+<br/>
+
+<!-- Profile Intro -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <div>
-          <h3>🚀 Full-Stack Developer from Pakistan</h3>
-          <p>Building pixel-perfect experiences with JavaScript ecosystem</p>
-          <p align="center">
-            <a href="https://linkedin.com/in/rehman-ali" target="_blank">
-              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-            </a>
-            <a href="mailto:rehmanalivirk535@gmail.com">
-              <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-            </a>
-            <a href="https://leetcode.com/rehman_ali" target="_blank">
-              <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td>
-        <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-      </td>
-    </tr>
-  </table>
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+  
+  <div align="left">
+    <h3>🚀 Full-Stack Developer from Pakistan</h3>
+    <p>Building pixel-perfect experiences with JavaScript ecosystem</p>
+    <br/>
+    <p>
+      <a href="https://linkedin.com/in/rehman-ali" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="mailto:rehmanalivirk535@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <a href="https://leetcode.com/rehman_ali" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+      </a>
+    </p>
+  </div>
 </div>
 
-<!-- Glowing Stats Cards -->
+<br clear="both"/>
+
+<!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rehmanali10&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </div>
 
-<!-- About Section with Gradient -->
-<div style="background: linear-gradient(to right, #0f172a, #1e293b); padding: 20px; border-radius: 15px; margin: 20px 0;">
-  <h2>🌟 About Me</h2>
-  
-  - 🔭 Currently crafting **Voice Ai Agent**
-  - 🌱 Mastering *Javascript**
-  - 💬 Ask me about **React Hooks, State Management, or UI Optimization**
-  - 📄 Explore my journey: [Resume](https://tinyurl.com/5zv4ae4f)
-</div>
+<br/>
 
-<!-- Tech Stack Section with Animated Icons -->
-<h2>🛠 Tech Stack</h2>
+---
+
+## 🌟 About Me
+
+- 🔭 Currently crafting **Voice AI Agent**
+- 🌱 Mastering **Javascript**
+- 💬 Ask me about **React Hooks, State Management, or UI Optimization**
+- 📫 Reach me at **rehmanalivirk535@gmail.com**
+- 📄 Explore my journey: [Resume](https://tinyurl.com/5zv4ae4f)
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,redux,git,github" alt="Tech Stack" />
 </p>
 
-<!-- GitHub Stats Section -->
-<h2>📊 GitHub Analytics</h2>
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehmanali10&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=38bdf8&icon_color=22d3ee" alt="Stats"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanali10&theme=nightowl&background=0d1117&border_radius=15&stroke=1f6feb&ring=22d3ee&fire=ff7b72&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=38bdf8&dates=9ca3af" alt="Streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali10&layout=compact&theme=nightowl&border_radius=15&bg_color=0d1117&title_color=38bdf8&text_color=9ca3af" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/rehmanali10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehmanali10&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=38bdf8&icon_color=22d3ee&hide_border=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/rehmanali10">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanali10&theme=nightowl&background=0d1117&border_radius=15&stroke=1f6feb&ring=22d3ee&fire=ff7b72&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=38bdf8&dates=9ca3af&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
-<!-- Trophy Section -->
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehmanali10&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
+  <a href="https://github.com/rehmanali10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali10&layout=compact&theme=nightowl&border_radius=15&bg_color=0d1117&title_color=38bdf8&text_color=9ca3af&hide_border=true" alt="Top Languages"/>
+  </a>
 </div>
 
-<!-- Footer Quote -->
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rehmanali10&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanali10&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Turning+coffee+into+code+since+2020;Clean+code+always+looks+like+it+was+written+by+someone+who+cares" alt="Coding Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Turning+coffee+into+code+since+2020+%E2%98%95;Clean+code+always+looks+like+it+was+written+by+someone+who+cares+%F0%9F%92%99" alt="Coding Quotes" />
 </h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" alt="Footer Wave"/>
+</div>
