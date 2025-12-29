@@ -65,38 +65,37 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/rehmanali10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehmanali10&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=38bdf8&icon_color=22d3ee&hide_border=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/rehmanali10">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanali10&theme=nightowl&background=0d1117&border_radius=15&stroke=1f6feb&ring=22d3ee&fire=ff7b72&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=38bdf8&dates=9ca3af&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rehmanali10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=22d3ee" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanali10&theme=radical&hide_border=true&background=0D1117&stroke=1f6feb&ring=22d3ee&fire=ff7b72&currStreakNum=38bdf8" alt="GitHub Streak" />
+</p>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/rehmanali10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali10&layout=compact&theme=nightowl&border_radius=15&bg_color=0d1117&title_color=38bdf8&text_color=9ca3af&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=9ca3af" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehmanali10&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rehmanali10&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanali10&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanali10&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+## 💻 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -105,5 +104,5 @@
 </h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave"/>
 </div>
